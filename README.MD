@@ -1,5 +1,5 @@
 # Docker on VirtualBox
-## Requir
+## Required
 - git
 - VirtualBox
 - Vagrant

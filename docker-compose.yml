@@ -1,5 +1,5 @@
 version: '3'
-service:
+services:
   web:
     image: nginx:mainline-alpine
     ports:
