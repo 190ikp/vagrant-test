@@ -1,3 +1,5 @@
+#!/bin/sh
+
 which docker > /dev/null 2>&1
 if [ $? -eq 0 ]; then
     echo "Docker has been installed"
